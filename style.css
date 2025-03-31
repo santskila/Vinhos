@@ -6,7 +6,7 @@
 }
 
 body {
-    background-image: linear-gradient(to right, #520b8d, #62046e) ;
+    background-color: #560514;
 }
 
 p {
@@ -22,12 +22,12 @@ main {
 }
 
 h1 {
-    color: #aa0609;
+    color: #331C1D;
     text-align: center;
 }
 
 h2 {
-    color:#e61519
+    color:#243328;
 }
 
 hr {
